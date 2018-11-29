@@ -1,1 +1,1 @@
-export default 'world, glupcze! Udało sie!';
+export default 'world! Task completed!';
